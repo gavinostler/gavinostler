@@ -1,9 +1,4 @@
-## Hello There! I'm Gavin.
+## Hello There! 👋
 
-I'm a full-stack developer based out of the Bay Area. I am fluent in node.js backend tools, as well as React for front end.
-
-## 💻 Tech Stack
-[![Tech Stack](https://skillicons.dev/icons?i=ts,js,html,css,nodejs,git,vue,nuxt,express,bash,vercel,cloudflare,vite,github,vscode,discord&perline=50)](https://skillicons.dev)
-
-## 📊 Stats
-![Gavin's Stats](https://github-readme-stats.vercel.app/api?username=gavinostler&show_icons=true&theme=gotham)
+I'm Gavin Ostler, a full-stack developer and high school student from the Bay Area. I am a fullstack developer and love making random things to fill my day. I'm interested in creating useful tools and software in the future.
+![Gavin's Stats](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,mongodb,figma)
