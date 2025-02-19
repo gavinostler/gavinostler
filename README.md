@@ -17,4 +17,4 @@ I'm Gavin Ostler, an 18 year old fullstack developer based in the Bay Area (Cali
     </p>
 
 ## Support 💵
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J713QNYW)
+[![ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/J3J713QNYW)
