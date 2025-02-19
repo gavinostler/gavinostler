@@ -1,4 +1,4 @@
-## Hello There, weary traveler! 👋
+## Hello there, weary traveler! 👋
 
 I'm Gavin Ostler, an 18 year old fullstack developer based in the Bay Area (California, USA). I'm passionate about working on meaningful projects that will improve upon or open doors to new software!
 
