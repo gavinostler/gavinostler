@@ -4,8 +4,9 @@ I'm Gavin Ostler, an 18 year old fullstack developer based in the Bay Area (Cali
 
 - 🔭 Current Role: None, but will be a student at Santa Clara University (Computer Science and Mathematics)!
 - 💼 Previous Role: Software Engineer Intern at [Veeva Systems](https://veeva.com)
-- 🦋 Bluesky: [distantstarr.bsky.social](https://bsky.app/profile/distantstarr.bsky.social)
-- 🐦 Twitter: [celesbit](https://x.com/celesbit)
+- 🦋 Bluesky: [hypabit.bsky.social](https://bsky.app/profile/hypabit.bsky.social)
+- 🐦 Twitter: [hypabit_d](https://x.com/hypabit_d)
+- 💬 Discord: hypabit
 
 ## Technologies and Tools 🔨
 - **Most Used Languages**: Python, Lua/Luau, Typescript/JavaScript/NodeJS
