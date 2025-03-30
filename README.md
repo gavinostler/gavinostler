@@ -10,7 +10,7 @@ I'm Gavin Ostler, an 18 year old fullstack developer based in the Bay Area (Cali
 
 ## Technologies and Tools 🔨
 - **Most Used Languages**: Python, Lua/Luau, Typescript/JavaScript/NodeJS
-- **Frameworks/Libraries**: Flask, React, Quark/Knit
+- **Frameworks/Libraries**: Flask, React, Quark/Knit, Tailwind
 - **Other**: AWS, Docker, Vite
  <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com?user=gavinostler&theme=github-dark-blue&hide_border=true&mode=weekly&hide_longest_streak=true" alt="GitHub Streak" />
