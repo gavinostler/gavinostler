@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Gavin Ostler, an 18 year old fullstack developer based in the Bay Area (California, USA). I'm passionate about working on meaningful projects that will improve upon or open doors to new software!<br><br>- 🔭 Current Role: Intern Software Engineer at <a href="https://veeva.com">Veeva Systems</a>, and a student at Santa Clara University (Computer Science)!<br>- 💼 Previous Role: Intern Software Engineer at <a href="https://veeva.com">Veeva Systems</a><br>- 💫 Currently learning Rust!</p>
+<p align="left">I'm Gavin Ostler, an 18 year old fullstack developer based in the Bay Area (California, USA). I'm passionate about working on meaningful projects that will improve upon or open doors to new software!<br><br>- 🔭 Current Role: Student at Santa Clara University (Computer Science)!<br>- 💼 Previous Role: Intern Software Engineer (two consecutive summers) at <a href="https://veeva.com">Veeva Systems</a><br>- 💫 Currently learning Rust!</p>
 
 ###
 
