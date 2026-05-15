@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Gavin%20Ostler&section=header&desc=Full%20Stack%20Developer&descAlign=30&fontAlign=42&fontAlignY=45&descAlignY=55" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=8eabd6&text=Gavin%20Ostler&reversal=false&fontColor=FFFFFF&fontAlign=32" alt="header"/>
 
 <h3 align="left">About Me</h3>
 
