@@ -24,3 +24,6 @@
     </p>
 
 ###
+
+[![Spotify Now Playing](https://widgets.1ceit.com/gavinostler/spotify?v=1)](https://widgets.1ceit.com/gavinostler/spotify?open)
+[![Now Coding](https://widgets.1ceit.com/gavinostler/nowcoding?v=1)](https://widgets.1ceit.com/gavinostler/nowcoding?open)
